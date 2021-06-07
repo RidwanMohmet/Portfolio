@@ -6,9 +6,11 @@ An Aspiring Data Scientist | 2X Kaggle Grandmaster
 Education
 Masters of Science (Data Science), YouTube University, 2016-2018
 Bachelors of Science (Data Science), YouTube University, 2012-2016
-Project 1: Crypto Sentiment Analysis
-crypto sentiment analysis
-
+Project 1: Varmakyyti.fi website
+http://varmakyyti.fi/
+Photo by <a href="http://varmakyyti.fi/">
+Scott Graham</a> on <a href="https://unsplash.com/s/photos/portfolio-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Photo by André François McKenzie on Unsplash
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.

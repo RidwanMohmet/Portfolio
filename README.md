@@ -17,10 +17,10 @@ http://varmakyyti.fi/
 
 <a href="http://varmakyyti.fi/">
 
-  Photo by <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a> on <a href="https://unsplash.com/s/photos/portfolio-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">varmakyyti</a> on <a href="https://unsplash.com/s/photos/portfolio-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
-Photo by André François McKenzie on Unsplash
+
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 

@@ -1,11 +1,11 @@
 # Portfolio
 
-John Doe
-An Aspiring Data Scientist | 2X Kaggle Grandmaster
+Ridwan Mohamed
+A Front-End Developer | Bigil Technology
 
 Education
-Masters of Science (Data Science), YouTube University, 2016-2018
-Bachelors of Science (Data Science), YouTube University, 2012-2016
+Bachelors of Computer Science, 2018-2020
+Also I have other certificats for web development.
 Project 1: Varmakyyti.fi website
 http://varmakyyti.fi/
 Photo by <a href="http://varmakyyti.fi/">
